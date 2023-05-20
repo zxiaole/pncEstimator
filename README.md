@@ -1,5 +1,4 @@
-# Environmental impact of aviation emission                       [<img src="/img/logo.jpg" width="144" height="120">](https://ie.ifu.ethz.ch/)
-[Developed by the Chair of Air Quality and Particle Technology, headed by Prof. Dr. Jing Wang, at ETH Zurich](https://ie.ifu.ethz.ch/)
+# Estimate the Particle Number Concentration Using Machine Learning
 
-First, we develop the emission inventory of particle number for the Zurich Airport. The emission inventory is based on the detailed flight trajectories provided by [OpenSky Network](https://opensky-network.org/).
+We have developed a machine learning model to estimate the particle number concentration, which is mainly induced by the ultrafine particles below 100 nm.
 
